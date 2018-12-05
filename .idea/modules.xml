@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FoodIdentify.iml" filepath="$PROJECT_DIR$/FoodIdentify.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libusbcamera/libusbcamera.iml" filepath="$PROJECT_DIR$/libusbcamera/libusbcamera.iml" />
     </modules>
   </component>
 </project>

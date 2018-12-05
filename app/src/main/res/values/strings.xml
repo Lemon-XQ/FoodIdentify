@@ -93,6 +93,7 @@
     <string name="update_cancel">取消</string>
     <string name="food_name">食物名称</string>
     <string name="food_energy">所含能量(kcal/100g)</string>
+    <string name="food_weight">质量(g)</string>
     <string name="food_protein">蛋白质(g/100g)</string>
     <string name="food_arbohydrates">碳水化合物(g/100g)</string>
     <string name="food_adipose">脂肪(g/100g)</string>

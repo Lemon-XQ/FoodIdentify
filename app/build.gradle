@@ -5,7 +5,7 @@ android {
     buildToolsVersion '26.0.2'
     useLibrary 'org.apache.http.legacy'
     defaultConfig {
-        applicationId "com.lemonxq_laplace.pregnantmonitor"
+        applicationId "com.lemonxq.foodidentify"
         minSdkVersion 17
         targetSdkVersion 26
         versionCode 1
@@ -35,6 +35,8 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:support-v4:26.1.0'
     testCompile 'junit:junit:4.12'
+    compile project(':libusbcamera')
+    compile 'com.jakewharton:butterknife:8.8.1'
     compile files('libs/lite-orm-1.7.0.jar')
     compile files('libs/logger-1.8-sources.jar')
     compile 'com.android.support:design:26.1.0'
@@ -47,4 +49,6 @@ dependencies {
     compile 'com.haibin:calendarview:3.2.0'
     implementation 'com.jaredrummler:material-spinner:1.2.4@aar'
     compile 'com.allenliu.versionchecklib:library:2.0.3'
+//    implementation 'com.github.jiangdongguo:AndroidUSBCamera:2.2.8'
+
 }

@@ -57,7 +57,7 @@
         android:padding="10dp"/>
 
     <!--环状图-->
-    <com.lemonxq_laplace.pregnantmonitor.view.DountChartView
+    <com.lemonxq.foodidentify.view.DountChartView
         android:id="@+id/dountChart"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

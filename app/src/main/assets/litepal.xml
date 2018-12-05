@@ -3,7 +3,7 @@
     <dbname value="PregnantMonitor" />
     <version value="7" />
     <list>
-        <mapping class="com.lemonxq_laplace.pregnantmonitor.Data.User"/>
-        <mapping class="com.lemonxq_laplace.pregnantmonitor.Data.Record"/>
+        <mapping class="com.lemonxq.foodidentify.Data.User"/>
+        <mapping class="com.lemonxq.foodidentify.Data.Record"/>
     </list>
 </litepal>
